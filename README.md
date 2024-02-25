@@ -8,4 +8,5 @@
 <date 22/2 Doing Free Code Camp Responsive final Training...
 <23/2 Doing a portfolio project>
 <24/2 Doing javascript training in FCC>
+<25/2 Doing Javascript Calories Counter Project :)
 
