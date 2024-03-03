@@ -15,3 +15,4 @@
 <29/2 Doing some javascript Again :))
 <1/3 reviewing self project >
 <2/3 improving self project and training>
+<3/3 self project and javascriptttttt>
