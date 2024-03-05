@@ -17,3 +17,4 @@
 <2/3 improving self project and training>
 <3/3 self project and javascriptttttt>
 <4/3 dong some javascript again >
+<5/3 doing some more projects >
