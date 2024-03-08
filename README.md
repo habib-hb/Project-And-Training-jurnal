@@ -19,4 +19,5 @@
 <4/3 dong some javascript again >
 <5/3 doing some more projects >
 <6/3 doing self project and javascript>
-<7 learn javascript framework..>
+<7/3 learn javascript framework..>
+<8/3 java....script:))))..>
