@@ -21,3 +21,4 @@
 <6/3 doing self project and javascript>
 <7/3 learn javascript framework..>
 <8/3 java....script:))))..>
+<9/3 some more javascript>>>>
