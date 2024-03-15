@@ -27,3 +27,4 @@
 <12/3 javascript lastt project> Certification completion :)
 <13/3 Front End Libraries Training :) >
 <14/3 self project :)>
+<15/3 self project and F.E training:)>
