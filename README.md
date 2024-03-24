@@ -36,3 +36,4 @@
 <21/3 self project and FCC>
 <22/3 FCC + selfprojects + tutorials>
 <23/3 FCC + selfproject + ai research>
+<24/3 FCC + Awesome feature development :) >
