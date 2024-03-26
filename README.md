@@ -38,3 +38,4 @@
 <23/3 FCC + selfproject + ai research>
 <24/3 FCC + Awesome feature development :) >
 <25/3 Self Project + Research >
+<26/3 D3 training and research>
