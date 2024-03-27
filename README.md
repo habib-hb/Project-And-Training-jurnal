@@ -39,3 +39,4 @@
 <24/3 FCC + Awesome feature development :) >
 <25/3 Self Project + Research >
 <26/3 D3 training and research>
+<27/3 project and research :) && training>
