@@ -41,3 +41,4 @@
 <26/3 D3 training and research>
 <27/3 project and research :) && training>
 <28/3 self project :) >
+<29/3 learning >
