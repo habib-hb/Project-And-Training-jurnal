@@ -45,3 +45,4 @@
 <30/3 project backend>
 <31/3 Self Project And Training >
 <1/4 Project + FCC >
+<2/4 Project and training and exploration>
