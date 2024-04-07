@@ -50,3 +50,4 @@
 <4/4 Project Edit + FCC>
 <5/4 Project + Tutorial>
 <6/4 Project + FCC>
+<7/4 tutorial + Project+ FCC>
