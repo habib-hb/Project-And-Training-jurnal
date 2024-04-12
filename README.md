@@ -54,4 +54,5 @@
 <8/4 tutorial + Project + FCC again >
 <9/4 self project + FCC >
 <10/4 self project + Training >
-<11/4
+<11/4 self project + training>
+<12/4 training>
