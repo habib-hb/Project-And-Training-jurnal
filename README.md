@@ -56,3 +56,4 @@
 <10/4 self project + Training >
 <11/4 self project + training>
 <12/4 training>
+<13/4 practice>
