@@ -63,3 +63,4 @@
 <17/4 development + Project>
 <18/4 training + Fcc>
 <19/4 trainig + self project>
+<20/4 training + exploration >
