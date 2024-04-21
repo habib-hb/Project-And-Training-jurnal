@@ -64,3 +64,4 @@
 <18/4 training + Fcc>
 <19/4 trainig + self project>
 <20/4 training + exploration >
+<21/4 FCC + Project >
