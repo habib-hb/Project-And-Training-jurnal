@@ -75,3 +75,4 @@
 <29/4 D3 + Project + Next.Js >
 <30/4 Project + training >
 <1/5 Project + Tutorials >
+<2/5 Project>
