@@ -76,3 +76,4 @@
 <30/4 Project + training >
 <1/5 Project + Tutorials >
 <2/5 Project>
+<3/5 Next + Auth >
