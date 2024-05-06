@@ -79,3 +79,4 @@
 <3/5 Next + Auth >
 <4/5 Next + Project + Firebase>
 <5/5 Training >
+<6/5 Training >
