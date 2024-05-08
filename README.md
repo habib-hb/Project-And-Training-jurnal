@@ -81,3 +81,4 @@
 <5/5 Training >
 <6/5 Training >
 <7/5 training >
+<8/5 training >
