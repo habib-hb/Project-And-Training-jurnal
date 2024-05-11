@@ -84,3 +84,4 @@
 <8/5 training >
 <9/5 training >
 <10/5 training - nest>
+<11/5 training web sockets >
