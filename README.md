@@ -86,3 +86,4 @@
 <10/5 training - nest>
 <11/5 training web sockets >
 <12/5 training + project >
+<13/5 tarining + project > 
