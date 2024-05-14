@@ -87,3 +87,4 @@
 <11/5 training web sockets >
 <12/5 training + project >
 <13/5 tarining + project > 
+<14/5 training + Project >
