@@ -93,3 +93,4 @@
 <17/5 training + Project >
 <18/5 training + Project>
 <19/5 training + Project >
+<20/5 trainig + Project >
