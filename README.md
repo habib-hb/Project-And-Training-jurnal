@@ -97,3 +97,4 @@
 <21/5 training + Project >
 <22/5 training + Project >
 <23/5 training + Project >
+<24/5 training + Project >
