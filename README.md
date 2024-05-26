@@ -99,3 +99,4 @@
 <23/5 training + Project >
 <24/5 training + Project >
 <25/5 training + Project >
+<26/5 training + Project >
