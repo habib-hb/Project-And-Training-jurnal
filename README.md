@@ -100,3 +100,4 @@
 <24/5 training + Project >
 <25/5 training + Project >
 <26/5 training + Project >
+<27/5 training + Project >
