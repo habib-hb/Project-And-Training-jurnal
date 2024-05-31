@@ -104,3 +104,4 @@
 <28/5 training + Project >
 <29/5 training + Project >
 <30/5 training + Project >
+<31/5 traning + Project >
