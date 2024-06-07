@@ -111,3 +111,4 @@
 <4/6 training >
 <5/6 training >
 <6/6 training >
+<7/6 training >
