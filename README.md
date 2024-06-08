@@ -112,3 +112,4 @@
 <5/6 training >
 <6/6 training >
 <7/6 training >
+<8/6 training >
