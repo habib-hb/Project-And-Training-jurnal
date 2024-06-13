@@ -117,3 +117,4 @@
 <10/6 training >
 <11/6 training >
 <12/ 6 training >
+<13 / 6 training >
