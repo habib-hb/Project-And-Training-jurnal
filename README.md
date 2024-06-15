@@ -119,3 +119,4 @@
 <12/ 6 training >
 <13 / 6 training >
 <14 / 6 training >
+<15 / 6 training >
