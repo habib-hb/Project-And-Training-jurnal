@@ -122,3 +122,4 @@
 <15 / 6 training >
 <16 / 6 training >
 <17 /6 training >
+<18 / 6 training  >
