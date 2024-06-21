@@ -125,3 +125,4 @@
 <18 / 6 training  >
 <19 /6 trainig >
 <20 / 6 training >
+<21 / 6 training >
