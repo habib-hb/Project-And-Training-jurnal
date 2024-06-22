@@ -126,3 +126,4 @@
 <19 /6 trainig >
 <20 / 6 training >
 <21 / 6 training >
+<22 / 6 training >
