@@ -127,3 +127,4 @@
 <20 / 6 training >
 <21 / 6 training >
 <22 / 6 training >
+<23 / 6 training >
