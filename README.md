@@ -128,3 +128,4 @@
 <21 / 6 training >
 <22 / 6 training >
 <23 / 6 training >
+<24 / 6 training >
