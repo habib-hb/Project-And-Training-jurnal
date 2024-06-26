@@ -130,3 +130,4 @@
 <23 / 6 training >
 <24 / 6 training >
 <25 / 6 training >
+<26 / 6 training >
