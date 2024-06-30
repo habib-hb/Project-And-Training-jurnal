@@ -134,3 +134,4 @@
 <27 / 6 training >
 <28 / 6 training >
 <29 / 6 training >
+<30 / 6 training >
