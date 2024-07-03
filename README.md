@@ -137,3 +137,4 @@
 <30 / 6 training >
 < 1 / 7 training >
 < 2 / 7 training >
+< 3 / 7 training >
