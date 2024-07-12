@@ -146,3 +146,4 @@
 <9 / 7 training >
 <10 / 7 training >
 <11 / 7 training  >
+<12 / 7 training >
