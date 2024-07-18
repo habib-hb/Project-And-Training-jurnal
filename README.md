@@ -152,3 +152,4 @@
 <15 / 7 training >
 <16 / 7 training >
 <17 / 7 training >
+<18 / 7 training >
