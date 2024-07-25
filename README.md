@@ -153,3 +153,10 @@
 <16 / 7 training >
 <17 / 7 training >
 <18 / 7 training >
+<19 / 7 training  [There was country wide internet outage for 5 days ]
+<20 / 7 training [outage]
+<21 / 7 training [outage]
+<22 / 7 training [outage]
+<23 / 7 training [outage]
+<24 / 7 training [outage]
+<25 / 7 training >
