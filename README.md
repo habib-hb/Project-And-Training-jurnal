@@ -160,3 +160,4 @@
 <23 / 7 training [outage]
 <24 / 7 training [outage]
 <25 / 7 training >
+<26 / 7 training >
