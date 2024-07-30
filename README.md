@@ -163,3 +163,4 @@
 <26 / 7 training >
 <27 / 7 training >
 <28 / 7 training >
+<29 / 7 training >
