@@ -169,3 +169,4 @@
 // August
 < 1 / 8 training >
 < 2 / 8 training >
+< 3 / 8 training >
