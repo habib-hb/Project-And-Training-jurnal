@@ -171,4 +171,4 @@
 < 2 / 8 training >
 < 3 / 8 training >
 < 4 / 8 training >
-< 5 / 8 training >
+<
