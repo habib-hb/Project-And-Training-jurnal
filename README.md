@@ -178,3 +178,4 @@
 < 9 / 8 training >
 < 10 / 8 training >
 < 11 / 8 training >
+< 12 / 8 training >
