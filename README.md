@@ -183,3 +183,4 @@
 < 14 / 8 training >
 < 15 / 8 training >
 < 16 / 8 training >
+< 17 / 8 training >
