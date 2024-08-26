@@ -192,3 +192,4 @@
 < 23 / 8 training >
 < 24 / 8 training >
 < 25 / 8 tarining >
+< 26 / 8 training >
