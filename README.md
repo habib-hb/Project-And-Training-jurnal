@@ -198,3 +198,4 @@
 < 29 / 8 training >
 < 30 / 8 training >
 < 31 / 8 training >
+< 1 / 9 training >
