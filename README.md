@@ -199,3 +199,4 @@
 < 30 / 8 training >
 < 31 / 8 training >
 < 1 / 9 training >
+< 2 / 9 training >
