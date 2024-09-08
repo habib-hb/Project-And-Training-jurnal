@@ -205,3 +205,4 @@
 < 5 / 9 training >
 < 6 / 9 training >
 < 7 / 9 training >
+< 8 / 9 training >
