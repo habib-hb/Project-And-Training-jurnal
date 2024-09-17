@@ -214,3 +214,4 @@
 < 14 / 9 project >
 < 15 / 9 project >
 < 16 / 9 training >
+< 17 / 9 training >
