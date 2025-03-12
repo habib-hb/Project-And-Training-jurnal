@@ -388,4 +388,5 @@
 < 8 / 3 professional project >
 < 9 / 3 professional project >
 < 10 / 3 professional project >
-< 11 / 3 professinal project >
+< 11 / 3 professional project >
+< 12 / 3 professional project >
