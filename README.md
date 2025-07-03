@@ -500,3 +500,6 @@
 < 28 / 6 professional project >
 < 29 / 6 professional project >
 < 30 / 6 professional project >
+< 1 /7 professional project >
+< 2 /7 professional project >
+< 3 /7 professional project >
