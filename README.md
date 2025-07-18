@@ -516,3 +516,4 @@
 < 15/7 Job Project >
 < 16/7 Job Project >
 < 17/7 Job Project >
+< 18/7 skill gain > 
