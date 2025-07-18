@@ -509,4 +509,10 @@
 < 7 /7 professional project >
 < 8 /7 professional project >
 < 9 /7 professional project >
-< 10/7 professional project >
+< 11/7 professional project >
+< 12/7 professional project >
+< 13/7 professional project >
+< 14/7 Job Project >
+< 15/7 Job Project >
+< 16/7 Job Project >
+< 17/7 Job Project >
